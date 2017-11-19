@@ -2,7 +2,7 @@
   "manifest_version": 1,
   "name": "No Opener, No Phishers, No Jquery",
   "version": "1",
-  "description": "Reduce the risk of falling victim to phishing attacks. With Jquery removed by jmfgdev",
+  "description": "Reduce the risk of falling victim to phishing attacks. With JQuery removed by JimmyBot(github.com/jmfgdev)",
   "content_scripts": [
     { 
       "matches": [
