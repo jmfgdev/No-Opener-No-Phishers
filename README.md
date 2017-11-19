@@ -1,5 +1,6 @@
 # No Opener, No Phishers
-Chrome extension to reduce the risk of falling victim to phishing attacks. Read my blog post about this for more info: [Browsers are broken, but nobody cares. All it took was 1 line of code to fix it.](https://medium.com/@Jamie_Farrelly/browsers-are-broken-but-nobody-cares-all-it-took-was-1-line-of-code-to-fix-it-f8af13c18cff).
+
+Chrome extension to reduce the risk of falling victim to phishing attacks. Read Jamie's post about this for more info: [Browsers are broken, but nobody cares. All it took was 1 line of code to fix it.](https://medium.com/@Jamie_Farrelly/browsers-are-broken-but-nobody-cares-all-it-took-was-1-line-of-code-to-fix-it-f8af13c18cff).
 
 Overview
 --------------------------
@@ -12,11 +13,7 @@ on [Github](https://github.com/JamieFarrelly/Rel-NoOpener-Example).
 
 This Chrome extension is as simple as it gets, all it does is add "noopener noreferrer" to the rel attribute on all links on the pages
 that you're visiting. It's literally one line of code.
-```javascript
-$('[target="_blank"]').attr("rel", "noopener noreferrer");
-```
-
 
 Installation
 --------------------------
-[Download from the Chrome Store](https://chrome.google.com/webstore/detail/hieejlcohhkjbpiihgphcnaaiehphike)
+Not in Chrome store yet :/
