@@ -1,6 +1,6 @@
 # No Opener, No Phishers
 
-Chrome extension to reduce the risk of falling victim to phishing attacks. Read Jamie's post about this for more info: [Browsers are broken, but nobody cares. All it took was 1 line of code to fix it.](https://medium.com/@Jamie_Farrelly/browsers-are-broken-but-nobody-cares-all-it-took-was-1-line-of-code-to-fix-it-f8af13c18cff).
+Chrome extension to reduce the risk of falling victim to phishing attacks, remixed with no JQuery. Read Jamie's post about this for more info: [Browsers are broken, but nobody cares. All it took was 1 line of code to fix it.](https://medium.com/@Jamie_Farrelly/browsers-are-broken-but-nobody-cares-all-it-took-was-1-line-of-code-to-fix-it-f8af13c18cff).
 
 Overview
 --------------------------
