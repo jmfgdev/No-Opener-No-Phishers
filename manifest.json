@@ -1,15 +1,15 @@
 {
-  "manifest_version": 2,
-  "name": "No Opener, No Phishers",
+  "manifest_version": 1,
+  "name": "No Opener, No Phishers, No Jquery",
   "version": "1",
-  "description": "Reduce the risk of falling victim to phishing attacks.",
+  "description": "Reduce the risk of falling victim to phishing attacks. With Jquery removed by jmfgdev",
   "content_scripts": [
     { 
       "matches": [
         "http://*/*",
         "https://*/*"
       ],
-      "js": ["js/jquery-1.10.2.min.js", "js/background.js"],
+      "js": ["js/background.js"],
       "run_at": "document_end",
       "all_frames": false
     }
